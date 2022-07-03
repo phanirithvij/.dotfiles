@@ -1,0 +1,3 @@
+#!/usr/bin/env zsh
+source $DOTFILES/setup
+STOW_FOLDERS=$STOW_FOLDERS DOTFILES=$DOTFILES cleanupEnv

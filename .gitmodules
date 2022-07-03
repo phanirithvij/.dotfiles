@@ -1,0 +1,9 @@
+[submodule "dt-dotfiles"]
+  path = others/dt-dotfiles
+  url = https://gitlab.com/dwt1/dotfiles
+[submodule "theprimeagen-dotfiles"]
+  path = others/theprimeagen-dotfiles
+  url = https://github.com/theprimeagen/.dotfiles
+[submodule "personal-dotfiles"]
+  path = personal
+  url = https://github.com/phanirithvij/dotfiles
