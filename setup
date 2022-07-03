@@ -1,9 +1,4 @@
 #!/usr/bin/env zsh
-export XDG_CONFIG_HOME=$HOME/.config
-VIM="nvim"
-
-export DOTFILES=$HOME/.dotfiles
-
 cleanupEnv() {
     pushd $DOTFILES
     for folder in $(echo $STOW_FOLDERS | sed "s/,/ /g")

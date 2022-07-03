@@ -17,4 +17,5 @@ recentrepos:
 startuppopupversion: 5
 customcommandshistory:
 - git rebase --continue
+- touch .gitignore
 hidecommandlog: false
