@@ -61,7 +61,7 @@ addToPath /home/rithvij/Downloads/flutter-linux/flutter/bin
 addToPath /home/rithvij/Downloads/flutter-linux/flutter-m/bin
 
 #PROTOBUF DART
-addToPath /media/rithvij/Storage/Software/protobuf_dart/protoc_plugin/bin
+addToPath /media/rithviz/Storage/Software/protobuf_dart/protoc_plugin/bin
 
 #DART
 addToPathFront /usr/lib/dart/bin

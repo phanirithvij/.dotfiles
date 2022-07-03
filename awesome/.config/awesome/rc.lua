@@ -285,7 +285,7 @@ local function Shuffle(t)
     return s
 end
 
-wallpaperList = scanDir("/media/rithvij/Storage/Images/Wallpapers")
+wallpaperList = scanDir("/media/rithviz/Storage/Images/Wallpapers")
 wallpaperList = Shuffle(wallpaperList)
 currentWpIdx = 1 
 
