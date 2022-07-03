@@ -20,7 +20,7 @@ setupEnv() {
 }
 
 if [[ -z $STOW_FOLDERS ]]; then
-    STOW_FOLDERS="awesome,bat,bash,bin,face,lazygit,newsboat,personal,python,qimgv,lf,micro,screenkey,shortcuts,tmux,zsh"
+    STOW_FOLDERS="awesome,bat,bash,bin,dolphin,face,lazygit,newsboat,personal,python,qimgv,lf,micro,screenkey,shortcuts,tmux,zsh"
 fi
 
 if [[ -z $DOTFILES ]]; then
