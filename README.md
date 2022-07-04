@@ -1,3 +1,8 @@
+### TODO
+
+- [ ] Add the kde plasma thing to repairs.
+- [ ] git bare repo (dt video, [atlassian article](https://www.atlassian.com/git/tutorials/dotfiles))
+
 ### KDE Plasma lockscreen background consistency
 
 Resources
