@@ -2,6 +2,7 @@ lastupdatecheck: 0
 recentrepos:
 - /home/rithviz/.dotfiles
 - /home/rithviz/.dotfiles/personal
+- /media/rithviz/Storage/Projects/Fun/bots/telemirror
 - /home/rithviz/.dotfiles/others/theprimeagen-dotfiles
 - /home/rithviz/.dotfiles/others/dt-dotfiles
 - /home/rithviz/go/src/git.sr.ht/~kisom/goutils
@@ -12,7 +13,6 @@ recentrepos:
 - /media/rithviz/Storage/Projects/Fun/pythone/tgcf-on-gh-action
 - /media/rithviz/Storage/Projects/Fun/pythone/tgcf-on-gh-action/.github/actions/tgcf-remote
 - /media/rithviz/Storage/Projects/Fun/pythone/tgcf
-- /media/rithviz/Storage/Projects/Fun/bots/telemirror
 - /media/rithviz/Storage/github-android-action/TorToolkit-Telegram
 - /media/rithviz/Storage/Projects/Fun/C++/WindowsAPIs
 startuppopupversion: 5

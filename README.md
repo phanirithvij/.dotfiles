@@ -167,11 +167,14 @@ bitbucket, hg
 appveyor
 travis-ci
 circleci
+sentry
 
 simkl
 anidb
 myanimelist
 gogdb
+comicclan (?)
+getcomics
 
 metacritic
 fandango
@@ -187,7 +190,6 @@ vncviewer
 tightvnc
 ultravnc
 tigervnc
-
 
 pkm (github tag)
 dendronhq/dendron
@@ -336,6 +338,7 @@ gimp
 delhoume/vliv
 irfanview
 qimgv
+qoi
 mitmproxy (via pipx)
 vips (images c/cpp)
 heic/hevc
