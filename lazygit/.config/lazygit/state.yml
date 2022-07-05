@@ -1,11 +1,11 @@
 lastupdatecheck: 0
 recentrepos:
 - /home/rithviz/.dotfiles
+- /home/rithviz/.dotfiles/others/theprimeagen-dotfiles
 - /home/rithviz/.dotfiles/personal
 - /home/rithvij/dotfilesmy/main
 - /home/rithvij/dotfilesmy
 - /media/rithviz/Storage/Projects/Fun/bots/telemirror
-- /home/rithviz/.dotfiles/others/theprimeagen-dotfiles
 - /home/rithviz/.dotfiles/others/dt-dotfiles
 - /home/rithviz/go/src/git.sr.ht/~kisom/goutils
 - /home/rithviz/dt-dotfiles
@@ -21,4 +21,5 @@ startuppopupversion: 5
 customcommandshistory:
 - git rebase --continue
 - touch .gitignore
+- git commit --amend
 hidecommandlog: false
