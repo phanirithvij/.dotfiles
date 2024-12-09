@@ -1,3 +1,12 @@
+## NOTE
+
+- using a flake with home-manager now, see https://github.com/phanirithvij/system
+  - nothing much yet in terms of dotfiles.
+- used yadm too previously, https://github.com/phanirithvij/dotfiles-yadm
+  - plan is to rely on yadm when home-manager's readonly becomes a hurdle.
+  - yadm could be avoided if I come up with a better workflow (stow or something) as yadm needs a dedicated repo
+  - that's two repos!
+
 ### TODO
 
 - [ ] Add the kde plasma thing to repairs.
