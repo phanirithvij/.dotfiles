@@ -362,11 +362,17 @@ ntop (scoop)
 Rainmeter
 
 lua
+lua book
 love2d
 mpv lua
 torch lua
-awesome lua
 nvim lua (?)
+awesome lua
+
+dwm
+qtile
+bwspm
+xmonad
 
 processing
 
@@ -397,3 +403,43 @@ google colab
 heroku
 digitalocean
 hacktoberfest
+
+android studio
+kotlin
+javafx
+neovide (cargo install --git https://github.com/neovide/neovide)
+tor browser
+browserstacklocal
+
+fribidi (?)
+pandoc
+selenium-server
+openmpi
+libxcb, libxcbcommon, xcb-util-xrm, xpad, xcb-proto
+pango
+
+yay
+pacman
+pamac
+paccache
+pactree (`pactree -u/-r <package>`)
+
+mdllayher/waveform (soundhound)
+
+noobox (crx)
+
+TODO:
+
+- wallpaper sites
+
+dynamicwallpaper.club
+alphacoders
+wallhaven
+artstation
+deviantart
+wallpapercave
+
+Books
+
+How to Be Invisible: A Step-By-Step Guide To Protecting Your Assets, Your Identity, And Your Life
+SAS Survival Handbook - The Ultimate Guide to Surviving Anywhere, 3rd Edition
